@@ -1,4 +1,3 @@
 this is test1.txt
-aenderung mit konflikt
-
+aenderung ohne konflikt
 
